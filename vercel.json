@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "installCommand": "pnpm install",
-  "buildCommand": "pnpm run build",
   "builds": [
     {
       "src": "src/index.ts",
